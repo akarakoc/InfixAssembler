@@ -11,7 +11,7 @@ This program takes an in-fix expression and as a result of the process, creates 
 In order to realize proof of the concept, the application is created by C++ on Eclipse IDE. Basically the required operations are defined via functions.When program is executed, the given input expression is read by the program character by character. If alphanumeric character matches, it is directly appended to the post-fix expression. If an operator matches, according to the precedence of the operator with respect to operator which resides at the top of the stack, whichr is called from the stack in order to append post-fix expression and existing operator is pushed to the stack for the next iteration of the loop. If an open parenthesis matches, it is directly pushed to the stack for the evaluation of the next instruction. If closed parenthesis exists, all stack values are popped in order to append to the post-fix string expression.
 
 
-![alt text](https://github.com/akarakoc/InfixAssembler/tree/master/IMG/outline.png)
+![alt text](https://github.com/akarakoc/InfixAssembler/blob/master/IMG/outline.png)
 
 Figure 1: Logical Diagram of the code generator program.
 
