@@ -2,7 +2,7 @@
 Converts infix expression to postfix expression and creates a86 code 
 
 Introduction
-The aim of this project is designing a program which creates A86 code output in order to calculate result of an infix operation by using Stack. For this purpose C++ programming language is used and basically a portable executable is created to do this job.
+The aim of this project is designing a program which creates A86 code output in order to calculate result of an infix operation by using Stack.
 
 Technique
 This program takes an in-fix expression and as a result of the process, creates post-fix output and its corresponding assembly code. The input may contain alphanumeric constants, parenthesis “(,[,{“ and operators “+,-,*,/”. If an infix expression contains these type of characters and correct logical order, the code generates post-fix and its A86 code by using stack operations.
