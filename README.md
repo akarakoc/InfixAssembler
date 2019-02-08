@@ -20,14 +20,14 @@ Figure 1: Logical Diagram of the code generator program.
 Results
 As an example of infix expression, the program creates the following responses:
 
-![alt text](https://github.com/akarakoc/InfixAssembler/tree/master/IMG/sample.png)
+![alt text](https://github.com/akarakoc/InfixAssembler/blob/master/IMG/sample.png)
 
 Figure 2: Execution of the program
 
-![alt text](https://github.com/akarakoc/InfixAssembler/tree/master/IMG/sample2.png)
+![alt text](https://github.com/akarakoc/InfixAssembler/blob/master/IMG/sample2.png)
 
 Figure 3: Corresponding A86 code
 
-![alt text](https://github.com/akarakoc/InfixAssembler/tree/master/IMG/sample3.png)
+![alt text](https://github.com/akarakoc/InfixAssembler/blob/master/IMG/sample3.png)
 
 Figure 4: Result of the A86 code.
